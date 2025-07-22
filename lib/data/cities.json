@@ -1,0 +1,947 @@
+[
+  {
+    "province": "北京市",
+    "city": "北京",
+    "latitude": 39.92,
+    "longitude": 116.38,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "天津市",
+    "city": "天津",
+    "latitude": 39.13,
+    "longitude": 117.18,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "上海市",
+    "city": "上海",
+    "latitude": 31.22,
+    "longitude": 121.47,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "重庆市",
+    "city": "重庆",
+    "latitude": 29.44,
+    "longitude": 106.89,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "广东省",
+    "city": "深圳",
+    "latitude": 22.54,
+    "longitude": 114.06,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "广州",
+    "latitude": 23.13,
+    "longitude": 113.25,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "四川省",
+    "city": "成都",
+    "latitude": 30.66,
+    "longitude": 104.07,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "湖北省",
+    "city": "武汉",
+    "latitude": 30.58,
+    "longitude": 114.28,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "东莞",
+    "latitude": 23.02,
+    "longitude": 113.75,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "陕西省",
+    "city": "西安",
+    "latitude": 34.27,
+    "longitude": 108.89,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "浙江省",
+    "city": "杭州",
+    "latitude": 30.25,
+    "longitude": 120.17,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "佛山",
+    "latitude": 23.02,
+    "longitude": 113.12,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "南京",
+    "latitude": 32.05,
+    "longitude": 118.77,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "辽宁省",
+    "city": "沈阳",
+    "latitude": 41.80,
+    "longitude": 123.40,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "青岛",
+    "latitude": 36.07,
+    "longitude": 120.38,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "济南",
+    "latitude": 36.67,
+    "longitude": 116.98,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "湖南省",
+    "city": "长沙",
+    "latitude": 28.23,
+    "longitude": 112.94,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "黑龙江省",
+    "city": "哈尔滨",
+    "latitude": 45.75,
+    "longitude": 126.63,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河南省",
+    "city": "郑州",
+    "latitude": 34.75,
+    "longitude": 113.63,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "云南省",
+    "city": "昆明",
+    "latitude": 25.04,
+    "longitude": 102.71,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "辽宁省",
+    "city": "大连",
+    "latitude": 38.92,
+    "longitude": 121.64,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广西壮族自治区",
+    "city": "南宁",
+    "latitude": 22.82,
+    "longitude": 108.32,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "河北省",
+    "city": "石家庄",
+    "latitude": 38.04,
+    "longitude": 114.51,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "福建省",
+    "city": "厦门",
+    "latitude": 24.48,
+    "longitude": 118.09,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山西省",
+    "city": "太原",
+    "latitude": 37.87,
+    "longitude": 112.55,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "苏州",
+    "latitude": 31.30,
+    "longitude": 120.60,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "贵州省",
+    "city": "贵阳",
+    "latitude": 26.65,
+    "longitude": 106.63,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "安徽省",
+    "city": "合肥",
+    "latitude": 31.85,
+    "longitude": 117.27,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐",
+    "latitude": 43.83,
+    "longitude": 87.62,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+6",
+    "solar_offset_minutes": -120
+  },
+  {
+    "province": "浙江省",
+    "city": "宁波",
+    "latitude": 29.87,
+    "longitude": 121.54,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "无锡",
+    "latitude": 31.57,
+    "longitude": 120.33,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "福建省",
+    "city": "福州",
+    "latitude": 26.08,
+    "longitude": 119.31,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "吉林省",
+    "city": "长春",
+    "latitude": 43.89,
+    "longitude": 125.33,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江西省",
+    "city": "南昌",
+    "latitude": 28.68,
+    "longitude": 115.88,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "常州",
+    "latitude": 31.81,
+    "longitude": 119.97,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "甘肃省",
+    "city": "兰州",
+    "latitude": 36.05,
+    "longitude": 103.83,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "广东省",
+    "city": "中山",
+    "latitude": 22.52,
+    "longitude": 113.39,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "惠州",
+    "latitude": 23.11,
+    "longitude": 114.42,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "汕头",
+    "latitude": 23.35,
+    "longitude": 116.68,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "临沂",
+    "latitude": 35.10,
+    "longitude": 118.35,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "淄博",
+    "latitude": 36.78,
+    "longitude": 118.05,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "浙江省",
+    "city": "温州",
+    "latitude": 27.99,
+    "longitude": 120.70,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "呼和浩特",
+    "latitude": 40.85,
+    "longitude": 111.73,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "浙江省",
+    "city": "绍兴",
+    "latitude": 30.00,
+    "longitude": 120.57,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河北省",
+    "city": "唐山",
+    "latitude": 39.63,
+    "longitude": 118.18,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "海南省",
+    "city": "海口",
+    "latitude": 20.05,
+    "longitude": 110.34,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "广西壮族自治区",
+    "city": "柳州",
+    "latitude": 24.33,
+    "longitude": 109.40,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "江苏省",
+    "city": "徐州",
+    "latitude": 34.21,
+    "longitude": 117.28,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "烟台",
+    "latitude": 37.46,
+    "longitude": 121.44,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河南省",
+    "city": "洛阳",
+    "latitude": 34.67,
+    "longitude": 112.44,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河北省",
+    "city": "邯郸",
+    "latitude": 36.63,
+    "longitude": 114.54,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "珠海",
+    "latitude": 22.28,
+    "longitude": 113.58,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "包头",
+    "latitude": 40.65,
+    "longitude": 109.83,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "河北省",
+    "city": "保定",
+    "latitude": 38.87,
+    "longitude": 115.48,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "潍坊",
+    "latitude": 36.71,
+    "longitude": 119.16,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山西省",
+    "city": "大同",
+    "latitude": 40.08,
+    "longitude": 113.30,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "江门",
+    "latitude": 22.58,
+    "longitude": 113.08,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江西省",
+    "city": "赣州",
+    "latitude": 25.87,
+    "longitude": 115.00,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "青海省",
+    "city": "西宁",
+    "latitude": 36.62,
+    "longitude": 101.77,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "江苏省",
+    "city": "南通",
+    "latitude": 31.98,
+    "longitude": 120.89,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "宁夏回族自治区",
+    "city": "银川",
+    "latitude": 38.49,
+    "longitude": 106.25,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "江苏省",
+    "city": "扬州",
+    "latitude": 32.39,
+    "longitude": 119.43,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "贵州省",
+    "city": "遵义",
+    "latitude": 27.69,
+    "longitude": 106.91,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "湖北省",
+    "city": "襄阳",
+    "latitude": 32.02,
+    "longitude": 112.15,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "辽宁省",
+    "city": "鞍山",
+    "latitude": 41.12,
+    "longitude": 122.98,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "昆山",
+    "latitude": 31.38,
+    "longitude": 120.98,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "福建省",
+    "city": "莆田",
+    "latitude": 25.44,
+    "longitude": 119.01,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "盐城",
+    "latitude": 33.35,
+    "longitude": 120.16,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "福建省",
+    "city": "泉州",
+    "latitude": 24.90,
+    "longitude": 118.59,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "陕西省",
+    "city": "咸阳",
+    "latitude": 34.34,
+    "longitude": 108.70,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "浙江省",
+    "city": "台州",
+    "latitude": 28.66,
+    "longitude": 121.42,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "安徽省",
+    "city": "芜湖",
+    "latitude": 31.35,
+    "longitude": 118.43,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "湖南省",
+    "city": "株洲",
+    "latitude": 27.83,
+    "longitude": 113.13,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "淮安",
+    "latitude": 33.61,
+    "longitude": 119.02,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "济宁",
+    "latitude": 35.41,
+    "longitude": 116.59,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "吉林省",
+    "city": "吉林",
+    "latitude": 43.85,
+    "longitude": 126.56,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "黑龙江省",
+    "city": "大庆",
+    "latitude": 46.58,
+    "longitude": 125.00,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广西壮族自治区",
+    "city": "桂林",
+    "latitude": 25.33,
+    "longitude": 110.33,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "河北省",
+    "city": "秦皇岛",
+    "latitude": 39.93,
+    "longitude": 119.60,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "广东省",
+    "city": "湛江",
+    "latitude": 21.27,
+    "longitude": 110.36,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "湖北省",
+    "city": "宜昌",
+    "latitude": 30.70,
+    "longitude": 111.30,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "黑龙江省",
+    "city": "齐齐哈尔",
+    "latitude": 47.35,
+    "longitude": 123.92,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "辽宁省",
+    "city": "抚顺",
+    "latitude": 41.89,
+    "longitude": 123.94,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江西省",
+    "city": "上饶",
+    "latitude": 28.45,
+    "longitude": 117.94,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "四川省",
+    "city": "南充",
+    "latitude": 30.79,
+    "longitude": 106.08,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "浙江省",
+    "city": "义乌",
+    "latitude": 29.31,
+    "longitude": 120.08,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河北省",
+    "city": "邢台",
+    "latitude": 37.06,
+    "longitude": 114.49,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "泰安",
+    "latitude": 36.19,
+    "longitude": 117.12,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河南省",
+    "city": "开封",
+    "latitude": 34.80,
+    "longitude": 114.31,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河北省",
+    "city": "张家口",
+    "latitude": 40.81,
+    "longitude": 114.88,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "河南省",
+    "city": "新乡",
+    "latitude": 35.31,
+    "longitude": 114.05,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山东省",
+    "city": "聊城",
+    "latitude": 36.46,
+    "longitude": 115.99,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "安徽省",
+    "city": "淮南",
+    "latitude": 32.63,
+    "longitude": 117.00,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "湖北省",
+    "city": "十堰",
+    "latitude": 32.63,
+    "longitude": 110.80,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "四川省",
+    "city": "宜宾",
+    "latitude": 28.77,
+    "longitude": 104.62,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "山东省",
+    "city": "枣庄",
+    "latitude": 34.81,
+    "longitude": 117.32,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "湖南省",
+    "city": "岳阳",
+    "latitude": 29.37,
+    "longitude": 113.09,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "浙江省",
+    "city": "慈溪",
+    "latitude": 30.17,
+    "longitude": 121.24,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "湖南省",
+    "city": "衡阳",
+    "latitude": 26.89,
+    "longitude": 112.57,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "山西省",
+    "city": "长治",
+    "latitude": 36.18,
+    "longitude": 113.11,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "江苏省",
+    "city": "连云港",
+    "latitude": 34.66,
+    "longitude": 119.22,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "赤峰",
+    "latitude": 42.26,
+    "longitude": 118.89,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "福建省",
+    "city": "晋江",
+    "latitude": 24.81,
+    "longitude": 118.55,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+8",
+    "solar_offset_minutes": 0
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯",
+    "latitude": 39.61,
+    "longitude": 109.78,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  },
+  {
+    "province": "四川省",
+    "city": "泸州",
+    "latitude": 28.81,
+    "longitude": 105.43,
+    "standard_timezone": "+08:00",
+    "solar_timezone": "UTC+7",
+    "solar_offset_minutes": -60
+  }
+]
