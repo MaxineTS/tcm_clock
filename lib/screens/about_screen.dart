@@ -89,11 +89,27 @@ class AboutScreen extends StatelessWidget {
                 const SizedBox(height: AppSpacing.s24),
                 Expanded(
                   child: SingleChildScrollView(
-                    child: Text(
-                      tabIndex == 0
-                          ? '本应用尊重并保护您的隐私。我们不会收集、存储或上传您的任何个人身份信息。\n\n仅在您授权的情况下，应用会使用您的位置信息，用于推算本地时辰与经脉，仅在本地处理，不会上传至服务器。\n\n您的所有数据仅保存在您的设备本地。我们不会与任何第三方共享您的信息。\n\n如有疑问，请通过设置页中的联系方式与我们取得联系。'
-                          : '本应用旨在为用户提供中国传统时辰与经脉相关的健康参考信息，不构成任何医疗建议。\n\n用户应根据自身情况合理使用本应用，如有健康问题请咨询专业医生。\n\n使用本应用即表示您同意本条款。我们有权根据需要对条款内容进行调整，调整后的内容将在应用内公示。\n\n如有疑问，请通过设置页中的联系方式与我们取得联系。',
-                      style: AppTextStyles.bodyRegular.copyWith(color: AppColors.gray800, fontSize: 16, height: 1.5),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          tabIndex == 0
+                              ? '本应用尊重并保护您的隐私。我们不会收集、存储或上传您的任何个人身份信息。\n\n仅在您授权的情况下，应用会使用您的位置信息，用于推算本地时辰与经脉，仅在本地处理，不会上传至服务器。\n\n您的所有数据仅保存在您的设备本地。我们不会与任何第三方共享您的信息。\n\n如有疑问，请通过设置页中的联系方式与我们取得联系。'
+                              : '本应用旨在为用户提供中国传统时辰与经脉相关的健康参考信息，不构成任何医疗建议。\n\n用户应根据自身情况合理使用本应用，如有健康问题请咨询专业医生。\n\n使用本应用即表示您同意本条款。我们有权根据需要对条款内容进行调整，调整后的内容将在应用内公示。\n\n如有疑问，请通过设置页中的联系方式与我们取得联系。',
+                          style: AppTextStyles.bodyRegular.copyWith(color: AppColors.gray800, fontSize: 16, height: 1.5),
+                        ),
+                        if (tabIndex == 0) ...[
+                          const SizedBox(height: 16),
+                          Text(
+                            '查看完整隐私政策，请访问：https://maxinets.github.io/tcm_clock/privacy.html',
+                            style: AppTextStyles.bodyRegular.copyWith(
+                              color: AppColors.blue500,
+                              fontSize: 14,
+                              height: 1.5,
+                            ),
+                          ),
+                        ],
+                      ],
                     ),
                   ),
                 ),

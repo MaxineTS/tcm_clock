@@ -508,7 +508,7 @@ class _ProvinceCityPickerState extends State<ProvinceCityPicker> {
 
   @override
   Widget build(BuildContext context) {
-    final provinces = widget.provinceCityMap.keys.toList();
+    final provinces = widget.provinceCityMap.keys.where((p) => p != '北京').toList();
     final cities = widget.provinceCityMap[provinces[provinceIndex]]!;
 
     return SafeArea(
